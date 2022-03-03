@@ -6,3 +6,9 @@ I  learned this from Fast AI Course by Jeremy. It was very interesting
 
 Matrix multiplication is the core step in Deep Learning
 
+## Code
+```python
+# Matrix Multiplication using
+print(1+1)
+```
+
